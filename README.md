@@ -1,4 +1,4 @@
-# Resnet_-Classification
+# Resnet_Classification
 ## requirement
 torch==1.7.1  
 
